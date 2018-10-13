@@ -1,0 +1,22 @@
+---
+title: "1.Introduction"
+author: Dr. Henry Hui Luan
+date: September 25, 2018
+output: 
+  powerpoint_presentation:
+    reference_doc: theme.pptx
+    slide_level: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Aim of the course
+## Topics covered
+- Class 2: Fundamental issues I: MAUP & spatial autocorrelation
+- Class 3: Spatio-temporal analysis
+- Class 4: Spatial and spatio-temporal analysis in the big data era
+- Class 5: Fundamental issues II: MTUP, UGCoP & uncertain point observation
+- Class 6: Emerging spatial data sources
+- Class 7: Ethics and geoprivacy issues
